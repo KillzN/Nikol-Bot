@@ -1,4 +1,4 @@
-//Codígo de Sant
+//Codígo de KILL
 
 import fs from 'fs';
 import path from 'path';

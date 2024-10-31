@@ -1,5 +1,5 @@
 {
-  "name": "Sisked-Bot",
+  "name": "Kill-Bot",
   "version": "5.0.0",
   "description": "Super WhatsApp Bot Multi Device",
   "main": "index.js",
@@ -18,13 +18,13 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Sisked-Bot/Sisked-Bot",
+  "homepage": "instagram.com/ineffable.mvrco",
   "author": {
     "name": "Sisked"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sisked-Bot/Sisked-Bot.git"
+    "url": "instagram.com/ineffable.mvrco"
   },
   "bugs": {
     "url": "https://github.com/Sisked-Bot/Sisked-Bot/issues"
@@ -37,8 +37,8 @@
         "@bochilteam/scraper-sosmed": "^1.0.5",
         "@ibaraki-douji/pixivts": "^2.4.1",
         "awesome-phonenumber": "^3.4.0",
-        "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
-        "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
+        "@SumiFX/Scraper": "instagram.com/ineffable.mvrco",
+        "@StarlightsTeam/Scraper": "instagram.com/ineffable.mvrco",
         "axios": "^1.1.2",
         "acrcloud": "^1.4.0",
         "form-data": "^4.0.0",
@@ -46,7 +46,7 @@
         "chalk": "^5.1.0",
         "url-file-size": "^1.0.5-1",
         "fluid-spotify.js": "*",
-        "cheerio": "github:AikerDev/cheeiro",
+        "cheerio": "instagram.com/ineffable.mvrco",
         "colors": "1.4.0",
         "express": "^4.18.1",
         "file-type": "^18.0.0",

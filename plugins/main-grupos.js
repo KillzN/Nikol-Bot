@@ -1,18 +1,18 @@
 import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix, command }) => {
-let img = await (await fetch(`https://i.ibb.co/27rdXbJ/bot.jpg`)).buffer()
+let img = await (await fetch(`https://i.ibb.co/qFTp64d/KILLZN-min.png`)).buffer()
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
-let txt = `*Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad :D*
+let txt = `*Hola!, te invito a unirte a mis grupos de ventas*
 
-> 🧸 Enlace Grupo Ofc 𝙎𝘼𝙉𝙏 𝘽𝙊𝙏  ᡣ𐭩
+> 🥷🏽 GRUPO DE VENTAS KILLZN STORE! 
 
 *🎌* ${group}
 
 *꒷꒦꒷꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷*
 
-> 🦋 Enlace anulado? entre aquí! 
+> 🥷🏽 Enlace anulado? entre aquí! 
 
 Canal :
 *🏷️* ${canal}

@@ -1,7 +1,7 @@
-/* By Sant */
+/* By LILL */
 
 const handler = async (m, {conn, text}) => {
-  m.reply(`*➢ "${pickRandom(global.piropo)}"*\n\n*𝙎𝘼𝙉𝙏 𝘽𝙊𝙏-𝑴𝑫 👑*`);
+  m.reply(`*➢ "${pickRandom(global.piropo)}"*\n\n*𝗞𝗜𝗟𝗟 𝗕𝗢𝗧-𝑴𝑫 👑*`);
 };
 handler.help = ['piropo']
 handler.tags = ['fun'];
