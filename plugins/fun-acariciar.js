@@ -1,4 +1,4 @@
-//Codígo de KILL
+//Codígo de NIKOLSITA
 
 import fs from 'fs';
 import path from 'path';

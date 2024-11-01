@@ -1,5 +1,5 @@
 {
-  "name": "KILL BOT",
+  "name": "NIKOLSITA BOT",
   "version": "5.0.0",
   "description": "Simple WhatsApp Bot Multi Device",
   "main": "index.js",
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/KillzN/DevXD",
+  "homepage": "https://github.com/KillzN/Nikol-Bot",
   "author": {
-    "name": "KillzN"
+    "name": "Nikolsita"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KillzN/DevXD"
+    "url": "git+https://github.com/KillzN/Nikol-Bot"
   },
   "bugs": {
-    "url": "https://github.com/KillzN/DevXD/issues"
+    "url": "https://github.com/KillzN/Nikol-Bot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

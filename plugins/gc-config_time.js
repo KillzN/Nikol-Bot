@@ -1,4 +1,4 @@
-/* Creditos a KILL */
+/* Creditos a NIKOLSITA */
 
 const handler = async (m, {conn, isAdmin, isOwner, args, usedPrefix, command}) => {
   if (!(isAdmin || isOwner)) {

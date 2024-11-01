@@ -22,7 +22,7 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('KILL\n BOT', {
+say('NIKOLSITA\n BOT', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -52,7 +52,7 @@ async function start(files) {
       console.log('[RECEIVED]', data);
       switch (data) {
         case 'reset':
-          p.process.kill();
+          p.process.NIKOLSITA();
           isRunning = false;
           start(files);
           break;
